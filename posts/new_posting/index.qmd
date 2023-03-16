@@ -1,0 +1,9 @@
+---
+title: "New_Posting test"
+author: "Sin dong hun"
+date: "2023-03-14"
+categories: [news, code, analysis]
+image: "image.png"
+---
+
+Data Mining 강의를 위한 Blog
