@@ -1,0 +1,11 @@
+{
+  "hash": "4ec7f8e3a874d48be2fcaf924af4daad",
+  "result": {
+    "markdown": "---\ntitle: \"Post With Code\"\nauthor: \"Harlow Malloc\"\ndate: \"2023-03-14\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\nThis is a post with executable code.\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\na = [1,2,3,4,5]\na\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n[1, 2, 3, 4, 5]\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
