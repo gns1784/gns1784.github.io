@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: dosc
+  
 website:
   title: "Sin dong hun"
   navbar:

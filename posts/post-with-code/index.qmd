@@ -8,7 +8,3 @@ image: "image.jpg"
 
 This is a post with executable code.
 
-```{python}
-a = [1,2,3,4,5]
-a
-```
