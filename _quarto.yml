@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: dosc
+  output-dir: docs
   
 website:
   title: "Sin dong hun"
