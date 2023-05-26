@@ -13,5 +13,38 @@
   },
   "posts/new_posting/index.qmd": {
     "index.html": "f795d405"
+  },
+  "posts/data_mining/2022-03-04-numpy (1).ipynb": {
+    "2022-03-04-numpy (1).html": "8cdb0857"
+  },
+  "posts/data_mining/2022-03-04-numpy (1).qmd": {
+    "2022-03-04-numpy (1).html": "70d5bf4d"
+  },
+  "posts/data_mining/pandas/pandas (1).md": {
+    "pandas (1).html": "c161f37a"
+  },
+  "posts/data mining/pandas/pandas (1).md": {
+    "pandas (1).html": "4fa181c1"
+  },
+  "posts/data mining/pandas/pandas.qmd": {
+    "pandas.html": "5500ec11"
+  },
+  "posts/data mining/pandas.qmd": {
+    "pandas.html": "f14ff1aa"
+  },
+  "posts/pandas (1).md": {
+    "pandas (1).html": "7d7b1053"
+  },
+  "posts/pandas (1).qmd": {
+    "pandas (1).html": "3e58a33b"
+  },
+  "posts/data mining/data mining.qmd": {
+    "data mining.html": "cc9d2a12"
+  },
+  "posts/data_mining/frist-post.qmd": {
+    "frist-post.html": "3c476fd6"
+  },
+  "posts/data_mining/2023-05-25-pandas.md": {
+    "2023-05-25-pandas.html": "c46401a6"
   }
 }

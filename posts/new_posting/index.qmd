@@ -6,4 +6,4 @@ categories: [news, code, analysis]
 image: "image.png"
 ---
 
-Data Mining 강의를 위한 Blog
+Data Mining 강의 blog 올리기 첫 게시물 test
