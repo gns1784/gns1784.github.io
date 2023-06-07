@@ -5,12 +5,17 @@ project:
 website:
   title: "Sin dong hun"
   navbar:
+    left:
+      - project.qmd
+    
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+    
+    
 format:
   html:
     theme: solar

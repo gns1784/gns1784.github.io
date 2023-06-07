@@ -1,3 +1,9 @@
+---
+title: "Numpy"
+author: "Sin dong hun"
+date: "2023-03-04"
+---
+
 # "Numpy 기본"
 > "numpy 기본 코드 실습(한글)"
 

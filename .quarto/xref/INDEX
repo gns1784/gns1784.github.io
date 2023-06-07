@@ -55,5 +55,35 @@
   },
   "posts/data_mining/numpy.md": {
     "numpy.html": "e154d9c6"
+  },
+  "project.qmd": {
+    "project.html": "b3ebd5ab"
+  },
+  "posts/data_mining/Kaggle Exercise 1.md": {
+    "Kaggle Exercise 1.html": "ee39b26f"
+  },
+  "posts/data_mining/Kaggle Exercise 2.md": {
+    "Kaggle Exercise 2.html": "4006eb5e"
+  },
+  "posts/data_mining/Kaggle Exercise 3.md": {
+    "Kaggle Exercise 3.html": "0b7422e8"
+  },
+  "posts/data_mining/Kaggle Exercise 4.md": {
+    "Kaggle Exercise 4.html": "de813ee4"
+  },
+  "posts/data_mining/Kaggle Exercise 5.md": {
+    "Kaggle Exercise 5.html": "0290a79f"
+  },
+  "posts/data_mining/Kaggle Exercise 1.ipynb": {
+    "Kaggle Exercise 1.html": "94243beb"
+  },
+  "posts/kaggle Exercise/Kaggle Exercise 1.md": {
+    "Kaggle Exercise 1.html": "397be1b8"
+  },
+  "posts/kaggle_Exercise/kaggle_Exercise_1.md": {
+    "kaggle_Exercise_1.html": "384fcadc"
+  },
+  "posts/kaggle_exercise/kaggle_exercise_1.md": {
+    "kaggle_exercise_1.html": "ad6b587e"
   }
 }

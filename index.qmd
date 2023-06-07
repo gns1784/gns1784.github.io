@@ -1,14 +1,11 @@
 ---
 title: "Data Mining Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+image: "image_a.jpg"
+
 ---
 
+To introduce myself, I'm Shin Dong-hoon, a 19th year student in the Department of Big Data Applications at Hannam University.
 
+A programming language you know how to use :
+python 3.10.2
+R 4.0.2
