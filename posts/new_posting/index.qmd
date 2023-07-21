@@ -2,7 +2,7 @@
 title: "New_Posting test"
 author: "Sin dong hun"
 date: "2023-03-14"
-categories: [news, code, analysis]
+categories: [news]
 image: "image.png"
 ---
 
