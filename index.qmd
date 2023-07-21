@@ -9,3 +9,7 @@ To introduce myself, I'm Shin Dong-hoon, a 19th year student in the Department o
 A programming language you know how to use :
 python 3.10.2
 R 4.0.2
+
+Education :
+1. graduated from Asan Middle and High School
+2. attended Hannam University (2019~)

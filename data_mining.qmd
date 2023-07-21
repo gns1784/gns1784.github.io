@@ -1,5 +1,5 @@
 ---
-title: "project"
+title: "data_mining"
 listing:
     contents: posts
     sort: "date desc"

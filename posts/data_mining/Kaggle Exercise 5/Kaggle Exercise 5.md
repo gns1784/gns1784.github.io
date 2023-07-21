@@ -1,3 +1,10 @@
+---
+layout: posts
+title: "Kaggle Exercise 5"
+author: "Sin dong hun"
+date: "2023-06-01"
+---
+
 ```python
 # 패키지 설치
 !pip install geopandas
